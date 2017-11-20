@@ -1,4 +1,4 @@
-# **Javier A. Magana**  
+# Javier A. Magana  
 nepobunceno@gmail.com  
 
 ## Statement of Purpose  
@@ -6,7 +6,7 @@ Passionate programmer with 5+ years' experience transforming the area to deliver
 
 ## Professional Experience  
 ### Merchant Technology, Replenishment
-** Senior Programmer Analyst **
+**Senior Programmer Analyst**
 2016-10 - now
 - Responsible for leading teams that handled the software modernization for the replenishment system.
 - Architect and design system to handle millions of items planning and ordering in oneOps systems.
@@ -14,7 +14,7 @@ Passionate programmer with 5+ years' experience transforming the area to deliver
 - Reduced delivery lifecycle from 1 month to a couple of times a week.
 - Built delivery pipeline into new product features to achieve quality and speed.
 
-*** Programmer Analyst ***
+**Programmer Analyst**
 2014-09 - 2016-09
 Merchant Technology, Order Management System
 - Lead portions of the modernization effort from monolithic service to micro services architecture
@@ -22,7 +22,7 @@ Merchant Technology, Order Management System
 - Establish code standards to improve quality of code.
 - Provided and supported the implementation of business solutions. 
 
-*** Programmer ***
+**Programmer**
 2012-06 - 2014-08
 Merchant Technology, Order Management System
 - Improved and implemented action plans. 
@@ -33,5 +33,5 @@ Merchant Technology, Order Management System
 
 ## Education
 **Masters Degree**, May 2012
-*Master of Science in Computer Science*   
+*Master of Science in Computer Science* GPA 3.78   
 
